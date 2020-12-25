@@ -1,3 +1,6 @@
 # Vanilla-JavaScript
 
-###This is from Andrew Mead Udemy course.
+### Promise
+### Async Await
+### Babel
+### Webpack
